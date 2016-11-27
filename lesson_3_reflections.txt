@@ -12,3 +12,6 @@ This way you can test your changes against the latest shared branch before commi
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use a different source control tool such as SVN.  If one was not available, probably email.  All changes would need to be checked and de-conflicted manually and we'd likely lose some changes on occasion.  Check-ins would be easier but QA would be way harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you are working on a larger or a risky feature, it's a good idea to use a seperate branch.  A feature that is not part of the current release requirements is also a good candidate for a seperate branch.
