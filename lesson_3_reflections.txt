@@ -3,3 +3,6 @@ This would be useful when you don't want to keep a local copy.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 This will give you more control over what you pull into your local repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are repo copies on GitHub.  Clones are local repo copies.  Branches are copies that have been modified and committed seperate from the master branch.
