@@ -9,3 +9,6 @@ Forks are repo copies on GitHub.  Clones are local repo copies.  Branches are co
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This way you can test your changes against the latest shared branch before committing.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use a different source control tool such as SVN.  If one was not available, probably email.  All changes would need to be checked and de-conflicted manually and we'd likely lose some changes on occasion.  Check-ins would be easier but QA would be way harder.
